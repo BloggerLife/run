@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc5b8f33.css",
+    "main.js": "/static/js/main.8563f3bd.js",
+    "static/media/logoGreenBack.svg": "/static/media/logoGreenBack.5afdb29955357b69b9e2c45e3527c582.svg",
+    "static/media/logo.svg": "/static/media/logo.fe612a38cb4c78925a65a909cc12eaf3.svg",
+    "index.html": "/index.html",
+    "main.bc5b8f33.css.map": "/static/css/main.bc5b8f33.css.map",
+    "main.8563f3bd.js.map": "/static/js/main.8563f3bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc5b8f33.css",
+    "static/js/main.8563f3bd.js"
+  ]
+}
